@@ -1,20 +1,20 @@
-# Angular Font Awesome
-Simple, easy to use Angular 2 & 4 component to manage Font Awesome icons.
+# AWS Service Fonts (Font-AWS-ome)
+Simple, easy to use Angular 2 & 4 component to manage AWS service icons similar to Font Awesome icons.
 
 # How to install
 
 **Install Packages**
-`npm install --save font-awesome angular-font-awesome`
+`npm install --save font-aws-ome`
 
 **Import the module:**
 ```typescript
 //...
-import { AngularFontAwesomeModule } from 'angular-font-awesome/angular-font-awesome';
+import { FontAwsOmeModule } from 'font-aws-ome/font-aws-ome';
 @NgModule({
   //...
   imports: [
     //...
-    AngularFontAwesomeModule
+    FontAwsOmeModule
   ],
   //...
 })
@@ -25,14 +25,8 @@ export class AppModule { }
 ```json
 "styles": [
     "styles.css",
-    "../node_modules/font-awesome/css/font-awesome.css"
+    "../node_modules/font-aws-ome/css/aws.css"
 ],
-```
-*NOTE: If using SCSS preprocessor just change the `css` for `scss`*
-
-**If you're not using the CLI, import the stylesheet to your `index.html` file**
-```html
-<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 ```
 
 # Usage and Options
@@ -49,11 +43,5 @@ inverse   |  `Boolean`         | `true / false`                            | Yes
 
 *Example Use*
 ```html
-<fa name="cog" animation="spin"></fa>
+<faws name="api-gateway" animation="spin"></faws>
 ```
-
-# TODO
-- [x] Create basic [demo](https://github.com/baruchvlz/angular-font-awesome/tree/new-demo)
-- [ ] Add `directive` option
-- [ ] Add [Stacked Icons](http://fontawesome.io/examples/#stacked) support
-- [ ] Add [List Icons](http://fontawesome.io/examples/#list) support
