@@ -1,0 +1,5 @@
+<span class="faws-{{name}}" [ngClass]="optionalClasses">
+    <span *ngFor="let child of children; let i = index">
+        <span class="path{{i+1}}"></span>
+    </span>
+</span>

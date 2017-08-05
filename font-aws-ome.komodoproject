@@ -2,5 +2,6 @@
 <!-- Komodo Project File - DO NOT EDIT -->
 <project id="7acaaf7f-4722-4a1e-916d-dc2bbc11af6a" kpf_version="5" name="font-aws-ome.komodoproject">
 <preference-set idref="7acaaf7f-4722-4a1e-916d-dc2bbc11af6a" id="project" preftype="project">
+  <long id="prefs_version">1</long>
 </preference-set>
 </project>

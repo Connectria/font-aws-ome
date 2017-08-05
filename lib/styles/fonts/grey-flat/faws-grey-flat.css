@@ -1,0 +1,210 @@
+@font-face {
+  font-family: 'aws_grey_flat';
+  src: url('aws_grey_flat.eot');
+  src: url('aws_grey_flat.woff2') format('woff2'),
+       url('aws_grey_flat.woff') format('woff'),
+       url('aws_grey_flat.ttf') format('truetype'),
+       url('aws_grey_flat.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="faws-grey-flat-"], [class*=" faws-grey-flat-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'aws_grey_flat' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.faws-grey-flat-ecr .path1:before {
+  content: "\e900";
+  color: rgb(78, 78, 78);
+}
+.faws-grey-flat-ecr .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(78, 78, 78);
+}
+.faws-grey-flat-ecr .path3:before {
+  content: "\e902";
+  margin-left: -1em;
+  color: rgb(152, 152, 152);
+}
+.faws-grey-flat-ecr .path4:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.faws-grey-flat-ecr .path5:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.faws-grey-flat-ecr .path6:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.faws-grey-flat-ecr .path7:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.faws-grey-flat-ecr .path8:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(152, 152, 152);
+}
+.faws-grey-flat-ecr .path9:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(152, 152, 152);
+}
+.faws-grey-flat-ecr .path10:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.faws-grey-flat-ecr .path11:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(152, 152, 152);
+}
+.faws-grey-flat-ecr .path12:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(152, 152, 152);
+}
+.faws-grey-flat-ecr .path13:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.faws-grey-flat-ecr .path14:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(211, 211, 211);
+}
+.faws-grey-flat-ecr .path15:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(211, 211, 211);
+}
+.faws-grey-flat-ecr .path16:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(211, 211, 211);
+}
+.faws-grey-flat-ecr .path17:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(211, 211, 211);
+}
+.faws-grey-flat-ecr .path18:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(211, 211, 211);
+}
+.faws-grey-flat-ecr .path19:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(211, 211, 211);
+}
+.faws-grey-flat-ecr .path20:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(211, 211, 211);
+}
+.faws-grey-flat-mobile-hub .path1:before {
+  content: "\e914";
+  color: rgb(0, 0, 0);
+}
+.faws-grey-flat-mobile-hub .path2:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.faws-grey-flat-mobile-hub .path3:before {
+  content: "\e916";
+  margin-left: -1em;
+  color: rgb(123, 123, 123);
+}
+.faws-grey-flat-mobile-hub .path4:before {
+  content: "\e917";
+  margin-left: -1em;
+  color: rgb(55, 55, 55);
+}
+.faws-grey-flat-mobile-hub .path5:before {
+  content: "\e918";
+  margin-left: -1em;
+  color: rgb(211, 211, 211);
+}
+.faws-grey-flat-quick-sight:before {
+  content: "\e919";
+  color: #7a7a7a;
+}
+.faws-grey-flat-work-docs .path1:before {
+  content: "\e91a";
+  color: rgb(0, 0, 0);
+}
+.faws-grey-flat-work-docs .path2:before {
+  content: "\e91b";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.faws-grey-flat-work-docs .path3:before {
+  content: "\e91c";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.faws-grey-flat-work-docs .path4:before {
+  content: "\e91d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.faws-grey-flat-work-docs .path5:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.faws-grey-flat-work-docs .path6:before {
+  content: "\e91f";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.faws-grey-flat-work-mail .path1:before {
+  content: "\e920";
+  color: rgb(0, 0, 0);
+}
+.faws-grey-flat-work-mail .path2:before {
+  content: "\e921";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.faws-grey-flat-work-mail .path3:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.faws-grey-flat-work-mail .path4:before {
+  content: "\e923";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.faws-grey-flat-work-spaces .path1:before {
+  content: "\e924";
+  color: rgb(0, 0, 0);
+}
+.faws-grey-flat-work-spaces .path2:before {
+  content: "\e925";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
