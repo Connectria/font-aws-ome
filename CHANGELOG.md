@@ -1,8 +1,8 @@
-# [2.0.0] (2017-06-04)
+# 1.0.0 - 2017-08-05
 
-**Important Changes**
-* Repository's name changed from angular2-font-awesome to angular-font-awesome this may cause some errors when using the library
-
-* Updated library to support Angular 4 and Angular 2 as suggested ([here](https://github.com/baruchvlz/angular-font-awesome/issues/7))
-* Changed repository's name to match package's name
-  
+** Initial Release **
+ - Modified original project for [barucihvlz/angular-font-awesome](https://github.com/baruchvlz/angular-font-awesome) to use a custom built icon pack based off of the [AWS Simple Icons](https://aws.amazon.com/architecture/icons/) pack
+ - Included Icon packs generated from the [IcoMoon App](https://icomoon.io/app/)
+ - Updated Font files from IcoMoon for Color(3D/Flat) and Greyscale(3D/Flat) with unique names to avoid font name conflicts using [TTX](https://linux.die.net/man/1/ttx)
+ - Recompiled and converted out to other font-types for browser support using [Online Font Converter](https://onlinefontconverter.com/)
+ - Updated component to include styling and child component rendering
